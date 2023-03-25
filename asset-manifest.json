@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e85cd0ec.css",
+    "main.js": "/static/js/main.f769bc47.js",
+    "static/media/projectPygame.png": "/static/media/projectPygame.a84553de8457c2e896da.png",
+    "static/media/profile.png": "/static/media/profile.515fb850ae70b874f35b.png",
+    "static/media/projectSneakerz.png": "/static/media/projectSneakerz.05a3ca6ae3c568fabc1f.png",
+    "static/media/ncit.png": "/static/media/ncit.721870ad2bf3e635cc44.png",
+    "static/media/BakbakOne-Regular.ttf": "/static/media/BakbakOne-Regular.7dea4ba30d3041673c71.ttf",
+    "static/media/projectSchoolyte.png": "/static/media/projectSchoolyte.b26442958e0e04a0fc69.png",
+    "static/media/SecularOne-Regular.ttf": "/static/media/SecularOne-Regular.141c1f3e034514617e8b.ttf",
+    "index.html": "/index.html",
+    "main.e85cd0ec.css.map": "/static/css/main.e85cd0ec.css.map",
+    "main.f769bc47.js.map": "/static/js/main.f769bc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e85cd0ec.css",
+    "static/js/main.f769bc47.js"
+  ]
+}
